@@ -5,7 +5,7 @@
 // @description  bing拼图页面一键完成
 // @require      https://code.jquery.com/jquery-3.2.1.slim.min.js
 // @author       knva
-// @match        https://cn.bing.com/spotlight/imagepuzzle*
+// @match        https://*.bing.com/spotlight/imagepuzzle*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bing.com
 // @grant        none
 // ==/UserScript==
